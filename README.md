@@ -38,5 +38,3 @@
    <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />
 
 </p>
-
-<p><img align="center" width="930" src="https://activity-graph.herokuapp.com/graph?username=kuhnalnischal7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="kunalnischal7" /></p>
