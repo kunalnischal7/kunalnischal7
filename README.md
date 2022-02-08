@@ -3,13 +3,13 @@
 <h2> I'm a Student, Athlete and Developer</h2>
 
 - I'm looking to collaborate with other programmers
-- 2022 Goals - Contribute more to open source projects
+- 2022 Goals - Contribute more to open source projects <br>
   <br />
   <table>
   <tr>
       <td>You are visitor</td>
       <td><img src="https://profile-counter.glitch.me/kunalnischal7/count.svg" alt="vistor count" height="30" width="224" /></td>
-    </tr>
+    </tr></table>
   <!--</table>
   <p align="left">
   <h3 align="left">Connect with me:</h3>
