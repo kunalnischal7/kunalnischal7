@@ -1,6 +1,6 @@
-# Hi there, I'm Kunal
+ <h1>Hi there, I'm Kunal Nischal</h1>
 
-## I'm a Student, Athlete and Developer
+<h2> I'm a Student, Athlete and Developer</h2>
 
 - I'm looking to collaborate with other programmers
 - 2022 Goals - Contribute more to open source projects
@@ -15,7 +15,7 @@
   <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/iamkunalnischal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KunalNischal" height="30" width="40" /></a>
   <a href="https://instagram.com/kunalnischal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalnischal7" height="30" width="40" /></a>
-  <!-- <a href="https://medium.com/@realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkarthiknair" height="30" width="40" /></a> -->
+  <!-- <a href="https://medium.com/@realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkarthiknair" height="30" width="40" /></a>-->
   </p>
 
 <h4>I’m currently working with</h4>
@@ -37,7 +37,6 @@
    
   <!--> <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=kunalnischal7&show_icons=true&hide_border=true&theme=tokyonight" alt="kunalnischal7" />
    <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />-->
-
 </p>
 <p align='center'>
 </p>
