@@ -28,15 +28,14 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <hr>
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  -->
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
+ <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
 <p align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnischal7&theme=radical"></p>
 
 <p>&nbsp; 
    
   <!--> <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=kunalnischal7&show_icons=true&hide_border=true&theme=tokyonight" alt="kunalnischal7" />
-   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />-->
+   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />--
 </p>
 <p align='center'>
 </p>
