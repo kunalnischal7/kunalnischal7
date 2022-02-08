@@ -34,8 +34,8 @@
 
 <p>&nbsp; 
    
-  <!--> <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=kunalnischal7&show_icons=true&hide_border=true&theme=tokyonight" alt="kunalnischal7" />
-   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />--
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=kunalnischal7&show_icons=true&hide_border=true&theme=tokyonight" alt="kunalnischal7" />
+   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=tokyonight" alt="kunalnischal7" />Coo
 </p>
 <p align='center'>
 </p>
