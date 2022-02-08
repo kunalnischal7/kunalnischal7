@@ -1,5 +1,7 @@
 ### Hi there, I'm Kunal
 
+<hr>
+
 ## I'm a Student, Athlete and Developer
 
 - I'm looking to collaborate with other programmers
