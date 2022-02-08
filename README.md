@@ -5,12 +5,12 @@
 - I'm looking to collaborate with other programmers
 - 2022 Goals - Contribute more to open source projects
   <br />
-  <!-- <table>
+  <table>
   <tr>
       <td>You are visitor</td>
       <td><img src="https://profile-counter.glitch.me/kunalnischal7/count.svg" alt="vistor count" height="30" width="224" /></td>
     </tr>
-  </table>
+  <!--</table>
   <p align="left">
   <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/iamkunalnischal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KunalNischal" height="30" width="40" /></a>
@@ -39,9 +39,9 @@
 </p>
 <p align='center'>
 </p>
-<p align='center'>
+<!--<p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.kunalnischal7??style=for-the-badge&logo=appveyor"></a>
-</p>
+</p>-->
 <p align='center'>
   <a href="https://twitter.com/iamkunalnischal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kunal-nischal-3464a2211"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
