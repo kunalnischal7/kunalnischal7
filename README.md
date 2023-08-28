@@ -2,8 +2,7 @@
 
 <h2> I'm a Student, Athlete and Developer</h2>
 
-- I'm looking to collaborate with other programmers
-- 2022 Goals - Contribute more to open source projects <br>
+- 2023 Goals - Contribute more to open source projects <br>
   <br />
   <table>
   <tr>
