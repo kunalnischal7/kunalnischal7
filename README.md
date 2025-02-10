@@ -1,46 +1,47 @@
- <h1>Hi there, I'm Kunal Nischal</h1>
+# Hi, I'm Kunal Nischal! 🚀
 
-<h2> I'm a Student, Athlete and Developer</h2>
+## About Me
+I'm an entrepreneur and AI developer, working on innovative solutions that solve real-world problems. My focus is on **AI, logistics, e-commerce, and automation**, with multiple projects aimed at transforming industries. 
 
-- 2023 Goals - Contribute more to open source projects <br>
-  <br />
-  <table>
-  <tr>
-      <td>You are visitor</td>
-      <td><img src="https://profile-counter.glitch.me/kunalnischal7/count.svg" alt="vistor count" height="30" width="224" /></td>
-    </tr></table>
-  <!--</table>
-  <p align="left">
-  <h3 align="left">Connect with me:</h3>
-  <a href="https://twitter.com/iamkunalnischal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KunalNischal" height="30" width="40" /></a>
-  <a href="https://instagram.com/kunalnischal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalnischal7" height="30" width="40" /></a>
-  <!-- <a href="https://medium.com/@realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkarthiknair" height="30" width="40" /></a>-->
-  </p>
-<hr>
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
+### 💡 What I Do:
+- **MoveWiseAI** – AI-powered logistics optimization.
+- **SentienceAI** – AI consultancy for e-commerce brands.
+- **Inferis** – A dark, mysterious fashion brand.
+- **AdSwift** – AI-driven image generation for social media marketing.
+- **AI-powered medical chatbot** (In development).
 
-<p align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnischal7&theme=radical"></p>
+## 🔧 Tech Stack
 
-<p>&nbsp; 
-   
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=kunalnischal7&show_icons=true&hide_border=true&theme=dark" alt="kunalnischal7" />
-   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnischal7&hide_border=true&theme=dark" alt="kunalnischal7" />
-</p>
-<p align='center'>
-</p>
-<!--<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.kunalnischal7??style=for-the-badge&logo=appveyor"></a>
-</p>-->
-<p align='center'>
-  <a href="https://twitter.com/iamkunalnischal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kunal-nischal-3464a2211"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=ai)
+![NLP](https://img.shields.io/badge/-NLP-2F74C0?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-<br>
-<!--<p align="right">
-  <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
-</p>
--->
+## 📌 Featured Projects
+
+### 🚛 [MoveWiseAI](#)
+AI-powered logistics automation platform to optimize courier and freight systems.
+
+### 🛒 [SentienceAI](#)
+Helping e-commerce brands leverage AI for product selection, customer engagement, and growth.
+
+### 🔥 [Inferis](#)
+A fashion brand that blends darkness and mystery with bold, intricate designs.
+
+### 🎨 [AdSwift](#)
+AI-driven image generation for powerful social media marketing campaigns.
+
+## 📫 Connect With Me
+- **LinkedIn**: [kunalnischal](#)
+- **Twitter**: [@kunalnischal](#)
+- **Email**: kunal@example.com (Replace with actual email)
+
+### ⚡ Fun Fact
+I enjoy working on projects that **blend AI with real-world impact**, whether in logistics, fashion, or creative industries.
+
+---
+🚀 *Always building, always learning.*
