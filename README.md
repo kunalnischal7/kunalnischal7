@@ -1,12 +1,11 @@
-# Hi, I'm Kunal Nischal! 🚀
+# Hi, I'm Kunal Nischal! 
 
 ## About Me
 I'm an entrepreneur and AI developer, working on innovative solutions that solve real-world problems. My focus is on **AI, logistics, e-commerce, and automation**, with multiple projects aimed at transforming industries. 
 
 ### 💡 What I Do:
 - **MoveWiseAI** – AI-powered logistics optimization.
-- **SentienceAI** – AI consultancy for e-commerce brands.
-- **Inferis** – A dark, mysterious fashion brand.
+- **SentienceAI** – AI consultancy.
 - **AdSwift** – AI-driven image generation for social media marketing.
 - **AI-powered medical chatbot** (In development).
 
@@ -27,18 +26,14 @@ I'm an entrepreneur and AI developer, working on innovative solutions that solve
 AI-powered logistics automation platform to optimize courier and freight systems.
 
 ### 🛒 [SentienceAI](#)
-Helping e-commerce brands leverage AI for product selection, customer engagement, and growth.
-
-### 🔥 [Inferis](#)
-A fashion brand that blends darkness and mystery with bold, intricate designs.
+AI Consultancy
 
 ### 🎨 [AdSwift](#)
 AI-driven image generation for powerful social media marketing campaigns.
 
 ## 📫 Connect With Me
-- **LinkedIn**: [kunalnischal](#)
-- **Twitter**: [@kunalnischal](#)
-- **Email**: kunal@example.com (Replace with actual email)
+- **LinkedIn**: [kunalnischal](https://www.linkedin.com/in/kunal-nischal-3464a2211/)
+- **Email**: nischalkunal@gmail.com 
 
 ### ⚡ Fun Fact
 I enjoy working on projects that **blend AI with real-world impact**, whether in logistics, fashion, or creative industries.
